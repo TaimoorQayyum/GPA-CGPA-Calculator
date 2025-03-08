@@ -1,8 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's an engaging GitHub description for your GPA/CGPA Calculator repository:
-
----
 
 # 📊 GPA & CGPA Calculator Web App
 
@@ -86,23 +81,3 @@ Project Link: [https://github.com/TaimoorQayyum/GPA-CGPA-Calculator](https://git
 [![GitHub Issues](https://img.shields.io/github/issues/TaimoorQayyum/GPA-CGPA-Calculator?color=important&style=flat-square)](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator/issues)
 [![GitHub Forks](https://img.shields.io/github/forks/TaimoorQayyum/GPA-CGPA-Calculator?style=social)](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator/network/members)
 
----
-
-This description includes:
-1. Eye-catching emojis and headers
-2. Clear feature highlights
-3. Technology stack
-4. Installation instructions
-5. Usage examples
-6. Contribution guidelines
-7. License information
-8. Social badges
-9. Responsive design mention
-10. Live demo link
-
-You can enhance it further by:
-1. Adding actual screenshots
-2. Including a demo video
-3. Adding test coverage badges
-4. Expanding the FAQ section
-5. Adding browser compatibility informationx
