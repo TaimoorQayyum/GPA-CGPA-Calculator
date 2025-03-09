@@ -3,9 +3,7 @@
 
 A modern web-based calculator for students to easily calculate semester GPA and cumulative CGPA with beautiful visualizations and intuitive interface.
 
-**Live Demo**: [https://taimoorqayyum.github.io/GPA-CGPA-Calculator/](https://taimoorqayyum.github.io/GPA-CGPA-Calculator/)
-
-![Calculator Preview](https://raw.githubusercontent.com/TaimoorQayyum/GPA-CGPA-Calculator/main/screenshot.png) *Add screenshot path*
+**Live Demo**: (https://gpa-cgpa-calculator-chi.vercel.app/)
 
 ## ✨ Features
 
