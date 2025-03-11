@@ -68,14 +68,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Taimoor Qayyum - [@taimoorqayyum](https://github.com/TaimoorQayyum)  
 Project Link: [https://github.com/TaimoorQayyum/GPA-CGPA-Calculator](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator)
 
----
-
-## 🔗 Related Projects
-
-- [Student Grade Tracker](https://github.com/example/grade-tracker)
-- [Academic Planner](https://github.com/example/academic-planner)
-
-[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/TaimoorQayyum/GPA-CGPA-Calculator/main.yml?style=flat-square)](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator/actions)
-[![GitHub Issues](https://img.shields.io/github/issues/TaimoorQayyum/GPA-CGPA-Calculator?color=important&style=flat-square)](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/TaimoorQayyum/GPA-CGPA-Calculator?style=social)](https://github.com/TaimoorQayyum/GPA-CGPA-Calculator/network/members)
 
